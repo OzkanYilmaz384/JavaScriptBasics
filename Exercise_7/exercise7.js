@@ -5,6 +5,6 @@ let age = 18;       // boolean
 let isGraduated = false;     // string
 
 
-console.log(Number(hello));     // NaN : Not a Number
+console.log(Number(hello));     // NaN : Not a Number, conversion failed.
 console.log(Boolean(age));
 console.log(String(isGraduated));
