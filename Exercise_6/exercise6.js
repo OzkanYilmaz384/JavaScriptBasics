@@ -1,6 +1,6 @@
-let hello = 'Ciao';     // boolean
-let age = 18;       // string
-let isGraduated = false;     // number
+let hello = 'Ciao';     
+let age = 18;       
+let isGraduated = false;     
 
 
 hello = Boolean(hello);     // true
