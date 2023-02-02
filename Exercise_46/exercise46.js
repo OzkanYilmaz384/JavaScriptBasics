@@ -1,5 +1,3 @@
-const { emitWarning } = require("process");
-
 const student = {
     id: 1,
     school: "Liceo",
@@ -11,4 +9,4 @@ const student = {
     }
     };
 
-    console.log(student.personalDate);
+console.log(student.personalDate);
