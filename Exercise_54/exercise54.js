@@ -1,7 +1,11 @@
 function nicknameMap(persons) {
-    for (let obj of persons) {
+    
+    persons.forEach((obj) => console.log(obj.name + "-" + obj.age));
+
+    /*  for (let obj of persons) {
         console.log(obj.name + "-" + obj.age);
-    }
+    } */
+    
   }
   
   const persons = [
